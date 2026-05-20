@@ -1,0 +1,9 @@
+ultralytics
+transformers
+torch
+torchvision
+pillow
+pandas
+opencv-python
+numpyscikit-learn
+joblib
