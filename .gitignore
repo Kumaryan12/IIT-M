@@ -28,3 +28,12 @@ data/images/
 
 # IDE
 .vscode/
+.venv/
+data/images/
+outputs/
+*.pt
+__pycache__/
+.DS_Store
+cache/
+*.joblib
+data/

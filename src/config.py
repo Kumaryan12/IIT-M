@@ -10,7 +10,7 @@ ANNOTATED_DIR = OUTPUT_DIR / "annotated"
 FEATURES_DIR = OUTPUT_DIR / "features"
 
 # YOLO model
-YOLO_MODEL_NAME = "yolo11m.pt"
+YOLO_MODEL_NAME = "yolo11s.pt"
 
 # Vehicle classes available in COCO-style YOLO models
 VEHICLE_CLASSES = {
@@ -43,3 +43,9 @@ ROAD_DUST_SCORE_MAP = {
 
 # Confidence threshold for YOLO vehicle detections
 VEHICLE_CONF_THRESHOLD = 0.25
+
+# Sliced detection settings
+USE_SLICED_DETECTION = True
+TILE_SIZE = 640
+TILE_OVERLAP = 0.20
+IOU_MERGE_THRESHOLD = 0.35

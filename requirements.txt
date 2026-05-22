@@ -7,3 +7,6 @@ pandas
 opencv-python
 numpyscikit-learn
 joblib
+osmnx
+geopandas
+shapely

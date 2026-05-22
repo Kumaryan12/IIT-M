@@ -64,7 +64,12 @@ def main():
     "road_condition",
     "road_condition_full_label",
     "road_dust_level",
-    "traffic_level"
+    "traffic_level",
+    "vehicle_box_area_ratio",
+    "average_vehicle_confidence",
+    "small_vehicle_count",
+    "medium_vehicle_count",
+    "large_vehicle_count"
 ]
 
     available_feature_columns = [
