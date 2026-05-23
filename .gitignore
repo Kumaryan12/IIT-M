@@ -37,3 +37,9 @@ __pycache__/
 cache/
 *.joblib
 data/
+
+outputs/
+data/
+.venv/
+*.pt
+*.joblib
