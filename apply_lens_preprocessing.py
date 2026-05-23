@@ -33,7 +33,7 @@ LENS_ROTATION_CONFIG = {
 PLATFORM_MASK_CONFIG = {
     1: (0.00, 0.82, 1.00, 1.00),  # keep same
     4: (0.00, 0.95, 1.00, 1.00),  # less aggressive
-    6: (0.00, 0.79, 1.00, 1.00),  # more aggressive
+    6: (0.00, 0.75, 1.00, 1.00),  # more aggressive
 }
 
 
