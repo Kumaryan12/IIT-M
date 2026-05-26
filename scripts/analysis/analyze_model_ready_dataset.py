@@ -10,7 +10,7 @@ INPUT_CSV = Path(
 
 TARGET_COL = "effective_density_kg_m3"
 
-TOP_K = 20
+TOP_K = 10
 
 
 def classify_feature(col_name: str) -> str:
